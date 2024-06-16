@@ -1,0 +1,9 @@
+.pokemon-image {
+    width: 250px;
+    height: auto;
+    border: 2px solid #000;   
+    margin: 10px;  
+    margin-bottom: 80px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Añade una sombra */
+  }
+  
